@@ -34,7 +34,7 @@ cybersecurity-labs-writeups/
 
 | # | Lab | Dificuldade | Categoria | Writeup |
 |---|-----|-------------|-----------|---------|
-| 01 | Cyber Security 101 — Módulo 1 | 🟢 Fácil | Ofensiva / Defensiva / OSINT | [Ver writeup](try-hack-me/cyber-security-101/Modulo-1-writeup.md) |
+| 01 | Cyber Security 101 — Módulo 1 | 🟢 Fácil | Ofensiva / Defensiva / OSINT | [Ver writeup](/try-hack-me/cyber-security-101/Modulo1-writeup.md) |
 
 ### ⬛ HackTheBox
 
