@@ -35,27 +35,13 @@ cybersecurity-labs-writeups/
 | # | Lab | Dificuldade | Categoria | Writeup |
 |---|-----|-------------|-----------|---------|
 | 01 | Cyber Security 101 — Módulo 1 | 🟢 Fácil | Ofensiva / Defensiva / OSINT | [Ver writeup](/try-hack-me/cyber-security-101/Modulo1-writeup.md) |
+| 02 | Cyber Security 101 — Módulo 2: Linux Fundamentals Part 1 | 🟢 Fácil | Linux / Fundamentos | [Ver writeup](try-hack-me/cyber-security-101/Linux-Fundamentals/Part1-writeup.md) |
 
 ### ⬛ HackTheBox
 
 | # | Lab | Dificuldade | Categoria | Writeup |
 |---|-----|-------------|-----------|---------|
 | 01 | — | — | — | Em breve |
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-| Ferramenta | Uso |
-|-----------|-----|
-| `nmap` | Enumeração de portas e serviços |
-| `Burp Suite` | Interceptação e análise de tráfego HTTP |
-| `Wireshark` | Análise de pacotes de rede |
-| `Metasploit` | Exploração de vulnerabilidades |
-| `Python` | Scripts de automação |
-| `Gobuster` | Enumeração de diretórios web |
-
----
 
 ## 📝 Modelo de Writeup
 
