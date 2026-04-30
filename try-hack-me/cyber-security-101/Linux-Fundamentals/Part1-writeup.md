@@ -6,7 +6,7 @@
 **Parte:** 1 de 3  
 **Dificuldade:** 🟢 Fácil  
 **Status:** ✅ Concluído  
-**Badge:** [Terminaled 🏅](https://tryhackme.com/nicolasreitz46/badges/terminaled)
+**Badge:** [Terminated 🏅](https://tryhackme.com/nicolasreitz46/badges/terminaled)
 
 ---
 
